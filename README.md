@@ -7,4 +7,4 @@ Building a basic recipe website.
 
 
 1: use of HTML elements,tags and attributes
-(<html>, <meta>, <ol>, <h1>, <h2>, <ul>, <li>,<img>, <src>, <href>, <alt>, etc...)
+(html, meta, ol, h1, h2, ul, li,img, src, href, alt, etc...)
